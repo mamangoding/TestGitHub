@@ -1,7 +1,7 @@
 /**
    Nama file : hello.c
    Nama pembuat : Indri Rahmayuni
-   Tanggal pembuatan : 6 September 2018
+   Tanggal pembuatan : 9 September 2024
    Deskripsi :  Menuliskan kata-kata hello world ke layar
 */
 #include "stdio.h"
