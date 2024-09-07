@@ -15,6 +15,7 @@ void main()
     printf("||\tProdi\t: Teknologi Rekayasa Perangkat Lunak  ||\n");
     printf("||\tKelas\t: 1B                                  ||\n");
     printf("========================================================\n");
+    printf("========================================================\n");
 }
 
 
